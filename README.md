@@ -10,6 +10,8 @@ This page is an internship task for the purpose of developing my skills.
 
 \*Implement responsiveness for tablet and mobile screens.
 
+## GitHub Pages -
+
 ## Screenshot of how it looks
 
 <img src="/screenshots/screenshot1.png" alt="image" />
